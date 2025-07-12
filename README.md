@@ -4,7 +4,7 @@ Welcome! This repository contains the source code for a **stunning, interactive 
 
 ## 🚀 Live Demo
 
-👉 **[View the Live Demo](https://abhishekkmsharmawebdev.github.io/landingpageusinggsap/)**
+👉 **[View the Live Demo](https://landingpagegsap.netlify.app/)**
 
 ## ✨ Features
 
