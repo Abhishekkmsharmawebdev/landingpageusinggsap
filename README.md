@@ -31,7 +31,7 @@ Welcome! This repository contains the source code for a **stunning, interactive 
    ```bash
    npm start
    ```
-   The site will run locally at `http://localhost:3000`.
+   The site will run locally at
 
 ## 📦 Build for Production
 
